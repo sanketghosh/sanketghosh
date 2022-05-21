@@ -1,4 +1,4 @@
-# Hi there, I am Sanket 👋
+# **Hi there, I am Sanket** 👋
 
 ## I am a student and a wannabe developer 👨‍💻
 
@@ -47,7 +47,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.github.com/sanketghosh#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
+<br />
 
-<img align="left" style="margin-top:20px;" alt="sanketghosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanketghosh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<!-- <img align="left" style="margin-top:20px;" alt="sanketghosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sanketghosh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
 
 [sanketghosh]: https://github.com/sanketghosh
