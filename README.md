@@ -26,39 +26,39 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="20" alt="vite logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="20" alt="astro logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="20" alt="express logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="20" alt="graphql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="20" alt="go logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="20" alt="markdown logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="60" alt="appwrite logo"  />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="20" alt="appwrite logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="20" alt="linux logo"  />
   <img width="8" />
 
 </div>
