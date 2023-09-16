@@ -60,11 +60,5 @@
 ###
 
 <div align="center">
-  <img height="330" src="https://i.giphy.com/media/UAUtB4Oi9U4EM/290.webp"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/sanketghosh/count.svg?"  />
 </div>
